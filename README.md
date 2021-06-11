@@ -1,5 +1,5 @@
 # Blue_robo
-An arduino based bluetooth robot that executes below functionality as per signa sent through bluetooth
+An arduino based bluetooth robot that executes below functionality as per signal sent through bluetooth
 
 Functions:
 	Move forward
